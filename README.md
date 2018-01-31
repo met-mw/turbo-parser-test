@@ -10,3 +10,5 @@ cd YOUR_DOMAINS_FOLDER
 git clone https://github.com/met-mw/turbo-parser-test.git PROJECT_DIRECTORY_FOLDER_NAME
 composer install
 ```
+
+Set domain root folder PROJECT_DIRECTORY_FOLDER_NAME/public
